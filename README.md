@@ -1,1 +1,1 @@
-Repo for FREECODECAMP Projects for Darthscifiguy
+Repo for FreeCodeCamp Projects for Darthscifiguy
